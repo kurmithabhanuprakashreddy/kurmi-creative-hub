@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Github, ExternalLink, Calendar, Code2, Database, Globe } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -17,7 +16,7 @@ const Projects = () => {
         "Integrated GitHub for source control and project tracking",
         "Ensured the site was fully responsive across devices for better accessibility"
       ],
-      liveLink: "https://kurmithabhanupraka.wixsite.com/nothing",
+      liveLink: "http://face-glow-market.lovable.app/#",
       githubLink: "https://github.com/kurmithabhanuprakashreddy/face-glow-market",
       date: "May 2025",
       category: "Web Development"

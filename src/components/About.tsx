@@ -11,8 +11,8 @@ const About = () => {
     },
     {
       icon: <Code className="text-green-600" size={32} />,
-      title: "Full Stack Developer",
-      description: "Proficient in both frontend and backend development"
+      title: "AI Developer",
+      description: "Proficient in artificial intelligence and machine learning solutions"
     },
     {
       icon: <Award className="text-purple-600" size={32} />,
@@ -33,8 +33,8 @@ const About = () => {
           <h2 className="text-4xl font-bold text-gray-800 mb-4">About Me</h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            I'm a passionate Data Analyst and Full Stack Developer with expertise in transforming 
-            complex data into actionable insights and building scalable web applications. 
+            I'm a passionate Data Analyst and AI Developer with expertise in transforming 
+            complex data into actionable insights and building intelligent solutions. 
             Currently pursuing my Bachelor's in Computer Science and Engineering at Lovely Professional University.
           </p>
         </div>

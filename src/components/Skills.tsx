@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Skills = () => {
@@ -6,11 +5,9 @@ const Skills = () => {
     {
       title: "Programming Languages",
       skills: [
-        { name: "Python", level: 90 },
-        { name: "Java", level: 85 },
         { name: "SQL", level: 95 },
-        { name: "R", level: 80 },
-        { name: "JavaScript", level: 75 }
+        { name: "Java", level: 85 },
+        { name: "R", level: 80 }
       ]
     },
     {
@@ -27,6 +24,7 @@ const Skills = () => {
       title: "Technologies",
       skills: [
         { name: "Machine Learning", level: 85 },
+        { name: "AI", level: 88 },
         { name: "Data Visualization", level: 90 },
         { name: "Database Management", level: 88 },
         { name: "Web Development", level: 82 },

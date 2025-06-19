@@ -13,7 +13,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden border-8 border-white shadow-2xl">
                 <img
-                  src="/lovable-uploads/7b80c6c5-5cb9-4f4a-91a2-8b7c03beccf9.png"
+                  src="/lovable-uploads/a353ad89-7dc6-4de2-9b0e-d2a7a247ca97.png"
                   alt="Kurmitha Bhanu Prakash Reddy"
                   className="w-full h-full object-cover"
                 />
@@ -30,7 +30,7 @@ const Hero = () => {
               Hi, I'm <span className="text-blue-600">Kurmitha</span>
             </h1>
             <h2 className="text-2xl lg:text-3xl text-gray-600 mb-8 font-light">
-              Data Analyst & Full Stack Developer
+              Data Analyst & AI Developer
             </h2>
             <p className="text-lg text-gray-600 mb-8 max-w-2xl leading-relaxed">
               Passionate about transforming data into insights and building innovative web solutions. 
